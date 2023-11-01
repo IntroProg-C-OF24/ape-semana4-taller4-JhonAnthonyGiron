@@ -5,7 +5,7 @@ Los datos deben ser pedidos al usuario.
 */
 package ape_semena4_soluciones;
 import java.util.Scanner;
-public class AreaTriangulo_2 {
+public class TabladeMultiplicar_3 {
     public static void main(String[] args) {
         double Gastos1;
         double Gastos2;
