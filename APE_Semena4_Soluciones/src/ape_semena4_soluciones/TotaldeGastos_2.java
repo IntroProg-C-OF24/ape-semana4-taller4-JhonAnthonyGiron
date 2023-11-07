@@ -1,7 +1,6 @@
 /*
-Algoritmo-1
-Generar un algoritmo que permite calcular y presentar el área de un triángulo. Los datos deben ser pedidos al usuario.
-Los datos deben ser pedidos al usuario.
+Algoritmo-2
+Generar un algoritmo que permite ingresar los gastos de tres hijos de un padre de familia; calcular y mostrar el total de gastos de los hijos del padre de familia.
 */
 package ape_semena4_soluciones;
 import java.util.Scanner;

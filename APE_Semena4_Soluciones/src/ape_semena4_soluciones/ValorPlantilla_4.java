@@ -1,7 +1,6 @@
 /*
-Algoritmo-1
-Generar un algoritmo que permite calcular y presentar el área de un triángulo. Los datos deben ser pedidos al usuario.
-Los datos deben ser pedidos al usuario.
+Algoritmo-4
+Generar un algoritmo que permita calcular y mostrar el valor de la planilla de teléfono de un casa. Se debe ingresar el costo por minutos, el número de minutos consumidos en el mes.
 */
 package ape_semena4_soluciones;
 import java.util.Scanner;
@@ -11,11 +10,11 @@ public class ValorPlantilla_4 {
         double Min;
         double ValorPlantilla;
         Scanner teclado = new Scanner(System.in); //inicializar
-        System.out.println("Ingrese la base del triangulo: ");
+        System.out.println("Ingrese el costo por minuto: ");
         CosMin = teclado.nextDouble();
         
         
-        System.out.println("Ingrese la altura del triangulo");
+        System.out.println("Ingrese los minutos");
         Min = teclado.nextDouble();
         
         System.out.println("-----La solucion del problema-----");

@@ -1,7 +1,6 @@
 /*
-Algoritmo-1
-Generar un algoritmo que permite calcular y presentar el área de un triángulo. Los datos deben ser pedidos al usuario.
-Los datos deben ser pedidos al usuario.
+Algoritmo-5
+Generar un algoritmo que permita calcular y mostrar el costos de una computadora de escritorio. La misma es comprada por partes; CPU, teclado, pantalla, ratón.
 */
 package ape_semena4_soluciones;
 import java.util.Scanner;
